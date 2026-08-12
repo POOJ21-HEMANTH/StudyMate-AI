@@ -120,16 +120,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## ☁️ Deployment on Vercel
-
-This repository is optimized for one-click deployment on **Vercel**:
-
-1. Push code to your GitHub repository.
-2. Import the repository in [Vercel Dashboard](https://vercel.com).
-3. Set the Environment Variable `ANTHROPIC_API_KEY`.
-4. Click **Deploy**.
-
----
 
 ## 🔮 Future Roadmap & Improvements
 - [ ] Integration with Google Drive & Notion database sync.
